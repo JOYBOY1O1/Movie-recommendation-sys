@@ -1,0 +1,5 @@
+
+movie_recommender_system/credits.csv
+*.csv
+movie_recommender_system/movies.pkl
+movie_recommender_system/similarity.pkl
